@@ -82,6 +82,7 @@ public class RunTest
 				pagAlerts.desplegueAlertas(propiedades,rutaCarpeta);
 				//FINALIZA GRABACION DE VIDEO
 				MyScreenRecorder.stopRecording();
+				
 	}
 	/*
 	@Test
